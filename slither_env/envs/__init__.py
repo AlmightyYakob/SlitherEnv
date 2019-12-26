@@ -1,1 +1,1 @@
-from gym_io.envs.slitherio_env import SlitherIOEnv  # NOQA
+from slither_env.envs.slitherio_env import SlitherIOEnv  # NOQA
